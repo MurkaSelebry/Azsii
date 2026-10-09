@@ -1,0 +1,5 @@
+# Архивы GTSRB (~365 МБ) и кэш .npz: ноутбук скачает и соберёт их сам
+data/
+# Веса дообученных моделей (VGG16 ~60 МБ, ResNet50 ~95 МБ)
+checkpoints/
+.ipynb_checkpoints/
